@@ -1,3 +1,5 @@
+module Tutorial3 where
+
 data BinTree a
   = Empty
   | Node (BinTree a) a (BinTree a)
@@ -25,4 +27,4 @@ blookup desiredVal (Node leftSubtree value rightSubtree)
 Write `tpose` to transpose a list of lists
 -}
 tpose :: [[a]] -> [[a]]
-???
+-- ???

@@ -1,4 +1,4 @@
-module Tut2 where
+module Tutorial2 where
 import Data.Char (toUpper)
 
 name, idno, username :: String

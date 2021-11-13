@@ -1,3 +1,5 @@
+module Tutorial4 where
+
 type Name = String
 
 data Predicate
